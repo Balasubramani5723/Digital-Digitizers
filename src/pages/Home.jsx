@@ -23,13 +23,6 @@ const Home = () => {
       >
       Transforming Businesses With Future-First Solutions.
       </motion.p>
-      <motion.a
-        href="/contact"
-        whileHover={{ scale: 1.1 }}
-        className="bg-conic from-emerald-800 to-emerald-300 to-50% text-white font-semibold px-6 py-3 rounded-full shadow-md transition"
-      >
-        Get Start
-      </motion.a>
     </div>
   );
 };
